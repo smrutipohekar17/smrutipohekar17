@@ -5,15 +5,15 @@
 
 - 🐣 I'm a CSE Sophomore at **IIIT Vadodara**
 
+- 🎀 I’m looking to collaborate on **Web Projects**
+
 - 🌻 I’m currently learning **React JS**
 
 - 🛡️ I’m currently working on **a E-Commerce Website**
 
-- 🎀 I’m looking to collaborate on **Web Projects**
+- 🦜 All of my projects are available at My Github Profile
 
-- 👨‍💻 All of my projects are available at [My Github Profile](My Github Profile)
-
-- ⚡ Fun fact **I like penguins.🐧**
+- 💫 Fun fact **I like penguins.🐧**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
