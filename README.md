@@ -9,7 +9,7 @@
 
 - 🌻 I’m currently learning **React JS**
 
-- 🛡️ I’m currently working on **a E-Commerce Website**
+- 🛡️ I’m currently working on **making my portfolio**
 
 - 🦜 All of my projects are available at My Github Profile
 
