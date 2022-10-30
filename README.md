@@ -1,8 +1,8 @@
 <h1 align="center">Hello 🖖, I'm Smruti</h1>
 <h3 align="center">Just trying to live poetry I cannot write.❣️</h3>
 
-<p align="left"> <img src="https://media3.giphy.com/media/f4V2mqvv0wT9m/giphy.gif?cid=ecf05e47vczoptplk7k65cckr4rsf0npak1qwq07dzkbfpzb&rid=giphy.gif&ct=g" alt="smrutipohekar17" /> 
-align="right"> <img src="https://media3.giphy.com/media/f4V2mqvv0wT9m/giphy.gif?cid=ecf05e47vczoptplk7k65cckr4rsf0npak1qwq07dzkbfpzb&rid=giphy.gif&ct=g" alt="smrutipohekar17" /> 
+<p align="center"> <img src="https://media3.giphy.com/media/f4V2mqvv0wT9m/giphy.gif?cid=ecf05e47vczoptplk7k65cckr4rsf0npak1qwq07dzkbfpzb&rid=giphy.gif&ct=g" alt="smrutipohekar17" /> 
+
 </p>
 
 
