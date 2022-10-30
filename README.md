@@ -1,6 +1,8 @@
 <h1 align="center">Hello 🖖, I'm Smruti</h1>
 <h3 align="center">Just trying to live poetry I cannot write.❣️</h3>
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smrutipohekar17&label=Profile%20views&color=0e75b6&style=flat" alt="smrutipohekar17" /> </p>
 
 - 🐣 I'm a CSE Sophomore at **IIIT Vadodara**
