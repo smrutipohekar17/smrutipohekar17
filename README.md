@@ -20,6 +20,8 @@
 
 - ⚡ Fun fact **Original name for Google was Backrub.🐧**
 
+- 🦕 Here is the link to my resume **https://drive.google.com/file/d/1Tyf5lqRnt_uyAEYE-_XH2VmoSmF3atcD/view?usp=sharing**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/smruti-pohekar-82665b228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smruti-pohekar-82665b228/" height="30" width="40" /></a>
