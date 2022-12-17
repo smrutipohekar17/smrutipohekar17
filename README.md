@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **Original name for Google was Backrub.**
 
-- 🐧 Here is the link to my resume **[Resume](https://drive.google.com/file/d/1Tyf5lqRnt_uyAEYE-_XH2VmoSmF3atcD/view?usp=sharing)**
+// 🐧 Here is the link to my resume **[Resume](https://drive.google.com/file/d/1Tyf5lqRnt_uyAEYE-_XH2VmoSmF3atcD/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
