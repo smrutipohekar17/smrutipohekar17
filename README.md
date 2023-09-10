@@ -11,7 +11,7 @@
 
 - 🎀 I’m looking to collaborate on **Web Projects**
 
-- 👨‍💻 All of my projects are available at [My Github Profile](My Github Profile)
+- 👨‍💻 All of my projects are available at [My Github Profile]
 
 - ⚡ Fun fact **Original name for Google was Backrub.🐧**
 
