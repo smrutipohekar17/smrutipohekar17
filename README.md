@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smrutipohekar17&label=Profile%20views&color=0e75b6&style=flat" alt="smrutipohekar17" /> </p>
 
-- 🐣 I'm a CSE Sophomore at **IIIT Vadodara**
+- 🐣 I'm a CSE Undergrad at **IIIT Vadodara**
 
 - 🌻 I’m currently learning **Data Analysis and Visualization**
 
@@ -11,7 +11,7 @@
 
 - 🎀 I’m looking to collaborate on **Web Projects**
 
-- 👨‍💻 All of my projects are available at [My Github Profile]
+- 👨‍💻 All of my projects are available at**My Github Profile**
 
 - ⚡ Fun fact **Original name for Google was Backrub.🐧**
 
